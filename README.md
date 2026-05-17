@@ -183,17 +183,6 @@ xai-brain-tumor-classification/
 
 ---
 
-## Flask-Based Prediction Interface
-
-A lightweight Flask web application was developed to:
-- upload MRI images
-- generate tumor predictions
-- display confidence scores for each tumor category
-
-This interface demonstrates the practical deployment capability of the proposed framework.
-
----
-
 ## Research Contribution
 
 This work demonstrates a novel integration of:
